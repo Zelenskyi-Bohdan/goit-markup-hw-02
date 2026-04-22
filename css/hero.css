@@ -19,3 +19,8 @@
   color: #fff;
   background-color: #4d5ae5;
 }
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
